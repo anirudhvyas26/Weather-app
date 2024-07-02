@@ -50,7 +50,7 @@ cursor: pointer;
   
   .weather-icon {
     font-size: 150px;
-    margin-left: -1em;
+    margin-left: 0em;
     color: yellow; /* Change to your preferred color */
     
   }
